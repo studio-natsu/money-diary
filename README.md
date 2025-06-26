@@ -2,7 +2,8 @@
 money-diary
 
 ## 📌 概要
-収入と支出を記録し、CSVファイルへ出力する
+Tkinterを使って作成したデスクトップアプリケーションです！
+収入と支出を記録し、CSVファイルへ出力します。
 
 ---
 
@@ -20,17 +21,12 @@ Pythonの試験勉強をしながら、得た知識を実際に形にしたい�
 ---
 
 ## 🚀 使い方
-インストール方法
-セットアップ手順
-実行コマンド
 
-### クローンする
 ```bash
-git clone https://github.com/yourname/yourrepo.git
-cd yourrepo
+git clone https://github.com/sutudio-natsu/maney-diary.git
+cd maney-diary
 
 ```
-
 ---
 
 ### 📄 機能一覧（Features）
